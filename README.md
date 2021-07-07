@@ -1,3 +1,7 @@
+# Sqooba note:
+We forked master from the official repo. For our "lite" version we work on the 'lite' branch.
+
+
 # Microsoft Azure Kusto (Azure Data Explorer) SDK for Java
 
 ![Released Version](https://img.shields.io/maven-central/v/com.microsoft.azure.kusto/kusto-ingest.svg)
